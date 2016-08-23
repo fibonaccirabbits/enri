@@ -1,0 +1,11 @@
+name,predicted_class,p_ratio 
+h_1sj0_povme_9_P_1,h,8.2422
+h_1sj0_unres_5_P_1,h,8.1062
+h_1sj0_povme_7_P_1,h,7.4209
+h_2p54_unres_2_P_1,h,6.8637
+l_3bqd_rmsd_centroid_8_P_1,h,6.2911
+h_1sj0_rmsd_1_P_1,h,6.277
+h_1sj0_res_4_P_1,h,6.1195
+l_3bqd_unres_centroid_5_P_1,h,5.9628
+l_3bqd_rmsd_centroid_10_P_1,h,5.7201
+h_3sp9_povme_5_P_1,h,5.5902

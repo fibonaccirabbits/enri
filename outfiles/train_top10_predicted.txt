@@ -1,0 +1,11 @@
+name,predicted_class,p_ratio,wp_ratio
+h_1sj0_unres_5_P_1,h,12.0371,0.0018
+h_1sj0_rmsd_1_P_1,h,11.4704,0.0092
+h_1sj0_rmsd_4_P_1,h,10.3865,0.0061
+h_1sj0_povme_5_P_1,h,9.9757,0.0131
+h_3sp9_povme_5_P_1,h,9.6931,0.0018
+l_3bqd_rmsd_centroid_8_P_1,h,9.6497,0.0002
+h_1sj0_rmsd_5_P_1,h,9.4746,0.0036
+l_2gtk_rmsd_centroid_3_P_1,h,9.3532,0.0042
+l_1sj0_res_centroid_5_P_1,h,9.2764,0.0187
+h_1sj0_res_4_P_1,h,9.1284,0.0114

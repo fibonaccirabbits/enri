@@ -1,0 +1,11 @@
+name,predicted_class,p_ratio,wp_ratio
+h_3sp9_h_enri_6_28161_P_1,h,1.4578,0.0011
+h_3l3x_h_enri_7_36401_P_1,h,1.2124,0.001
+l_2gtk_enri_37721_P_1,h,2.052,0.0008
+l_2p54_unres_36861_P_1,h,2.015,0.0008
+h_3sp9_h_rmsd_7_P_1,h,1.1135,0.0007
+h_3sp9_h_unres_5_P_1,h,1.6052,0.0007
+h_3sp9_h_res_6_P_1,l,0.9511,0.0007
+h_2gtk_h_unres_2_P_1,h,1.014,0.0007
+l_2gtk_enri_33901_P_1,h,2.1979,0.0006
+h_2p54_h_unres_9_38001_P_1,h,1.7276,0.0006
